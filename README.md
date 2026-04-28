@@ -1,7 +1,6 @@
 # JavaScript To-Do List App
 
 A simple web-based to-do list application built with HTML, CSS, and JavaScript.  
-Created for my Gamuda AI Academy application.
 
 ## Features
 - Add new tasks
